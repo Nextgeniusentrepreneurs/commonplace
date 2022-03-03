@@ -1,2 +1,2 @@
 # commonplace
-Connecting regenerative development to web3 &amp; DAOs
+Rapid decarbonisation through place-based regenerative development DAOs
